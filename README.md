@@ -7,4 +7,4 @@
 </p>
 
 ### Documentation
-For documentation you can [Click Here](https://koalafacade.github.io/packages/filament-crash/docs/)
+For documentation you can [Click Here](https://koalafacade.github.io/packages/filament-crash/)
